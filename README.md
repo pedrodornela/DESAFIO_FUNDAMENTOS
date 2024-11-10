@@ -33,9 +33,9 @@ Após isso, realiza o seguinte cálculo: **precoInicial + (precoPorHora * horas)
   
 Por último, foi feito um menu interativo em **Program.cs** com as seguintes ações implementadas:
 
-**Cadastrar veículo
-Remover veículo
-Listar veículos
+**Cadastrar veículo,
+Remover veículo,
+Listar veículos,
 Encerrar**
 
 
